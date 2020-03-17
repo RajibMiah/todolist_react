@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './Components/Layers/header';
-import Content from './Components/Layers/content'
+import Content from './Components/Layers/content';
 
 
 function App() {

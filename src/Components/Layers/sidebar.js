@@ -13,17 +13,17 @@ export default function sidebar() {
                     <li>
                         <span><FaInbox/></span>
                         <span>inbox</span>
-                        </li>
-                        <li>
+                     </li>
+                     <li>
                         <span><FaRegCalendar/></span>
                         <span>ToDay</span>
-                        </li>
-                        <li>
+                    </li>
+                    <li>
                         <span><FaRegCalendarAlt/></span>
                         <span>Next 7 days</span>
                     </li>
                 </ul>
-                </div>
+            </div>
             <div className = "sidebar__middle">
                 <span>
                     <FaChevronDown/>
@@ -32,9 +32,6 @@ export default function sidebar() {
                 <ul className = "sidebar__projects">project will be there</ul>
                 Add project component here
              </div>
-
-
-        </div>
-        
+        </div>    
     )
 }
